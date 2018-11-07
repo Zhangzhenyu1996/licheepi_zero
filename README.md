@@ -1,2 +1,2 @@
 # licheepi_zero
-v3s开发板
+v3s开发板,,github test
